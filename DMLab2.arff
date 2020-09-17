@@ -1,0 +1,16 @@
+% my data
+@relation Employee
+@attribute E_id numeric
+@attribute E_name string
+@attribute E_department {cse,ece,eee,it}
+@attribute age numeric
+@attribute subject {os,ds,ae,se,machines}
+@attribute mobile_number numeric
+
+
+@data
+24,Damon,cse,26,os,1234569877
+12,Amara,it,30,ds,8585655571
+1,Caroline,ece,27,ae,7895897461
+21,Klaus,cse,28,se,8247286513
+6,John,eee,30,machines,9785691239
